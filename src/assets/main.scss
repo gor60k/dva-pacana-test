@@ -1,0 +1,16 @@
+@import 'reset-scss/reset';
+@import 'variables';
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+//html {
+//  background-color: $base-color;
+//}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+}
+
